@@ -1,0 +1,21 @@
+# Site settings
+title: Good quality toys
+email: dan@good-quality-toys.co.uk
+description: > # this means to ignore newlines until "baseurl:"
+  I'm fed up with spending good money on cheap tat from China. Back in the good old days
+  of the 80s my toys would be built to last. In fact some of them are still in good nick
+  today, yet some of my son's toys last a matter of weeks before they break. Its not good enough
+  and I'm on a mission to find the best toys without breaking the bank.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.good-quality-toys.co.uk" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  
+
+# Build settings
+markdown: kramdown
+
+paginate: 4
+
+author: Dan
+
+gems: [jekyll-paginate]
